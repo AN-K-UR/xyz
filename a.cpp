@@ -8,7 +8,7 @@ int max(int arr[],int n){
             max=arr[i];
             return max;
 
-        
+        //karan anlur
 
 
 }
